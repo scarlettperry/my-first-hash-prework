@@ -17,11 +17,11 @@ end
 
 def retrieval
   shipping_manifest = {
-    "whale_bone_corsets" => 5,
-    "porcelain_vases" => 2, 
-    "oil_paintings" => 3
+    "whale bone corsets" => 5,
+    "porcelain vases" => 2, 
+    "oil paintings" => 3
   }
-  shipping_manifest["oil_paintings"]
+  shipping_manifest["oil paintings"]
 end
 
 def adding
